@@ -3,7 +3,9 @@
 Ce dépôt contient les travaux pratiques réalisés dans le cadre du cours B3 CS Infrastructures Réseaux Sécurisées.
 
 ## Topologie réseau
-TP1, TP2, TP3
+* [TP1](./TP1)
+* [TP2](./TP2)
+* [TP3](./TP3)
 
 <img width="1117" height="619" alt="image" src="https://github.com/user-attachments/assets/7e31121d-b4d9-4969-ab51-7de5014c2805" />
 
